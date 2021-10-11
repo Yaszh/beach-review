@@ -1,0 +1,43 @@
+
+h1{
+  text-align:center;
+  color:#8b008b;
+}
+
+p{
+  text-align:center;
+  font-family: "Lucida Console", "Courier New", monospace;
+  color:blue;
+}
+.p1{
+   text-align:center;
+  font-family: "Lucida Console", "Courier New", monospace;
+  color:#ee7700;
+}
+
+table, td, th {
+ border: 2px solid purple;
+}
+
+table {
+ border-collapse: collapse;
+ width: 50%;
+}
+
+th{
+ height: 50px;
+ text-align:center;
+}
+td{
+  height:50px;
+  vertical-align:center;
+}
+tr:hover {background-color:lightblue;}
+.mainp{
+     float:right;
+     position:absolute;
+     top: 10%;
+     right:10%;
+
+    
+}
